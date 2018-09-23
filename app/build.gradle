@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'MyAndroidKey'
+            keyPassword '9667525702'
+          // storeFile file('/Users/Christos/Documents/Quiz/android.jks')
+            storeFile file('/Users/chris/Documents/Quiz/android.jks')
+
+          //  storeFile file('/Users/chris/Library/Mobile\\ Documents/com\\~apple\\~CloudDocs/Studies/Bachelor/Year\\ 4/7th\\ Semester/ECE\\ 464/Project/Quiz/android.jks')
+            storePassword '96675257'
+        }
+    }
+    compileSdkVersion 17
+    buildToolsVersion "25.0.0"
+    defaultConfig {
+        applicationId "com.ucymovies.quiz"
+        minSdkVersion 8
+        targetSdkVersion 17
+        signingConfig signingConfigs.config
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+}

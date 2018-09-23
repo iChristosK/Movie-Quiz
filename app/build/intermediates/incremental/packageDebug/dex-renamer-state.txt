@@ -1,0 +1,7 @@
+#Wed Dec 21 18:52:47 EET 2016
+base.0=/Users/Christos/Documents/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9c11b6c28cd1ead43b64c4d170192df65f6f6502
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Christos/Documents/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa9a19c4dd426ca0af47248ce427caa19d41a5cb/classes.dex
+base.1=/Users/Christos/Documents/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa9a19c4dd426ca0af47248ce427caa19d41a5cb
+file.0=/Users/Christos/Documents/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9c11b6c28cd1ead43b64c4d170192df65f6f6502/classes.dex

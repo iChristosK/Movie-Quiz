@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/chris/Documents/Quiz/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/chris/Documents/Quiz/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Christos/Documents/Quiz/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    }
+]

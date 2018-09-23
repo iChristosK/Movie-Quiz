@@ -1,0 +1,4 @@
+#Fri Sep 21 11:33:38 EEST 2018
+base.0=/Users/chris/Documents/Quiz/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/chris/Documents/Quiz/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

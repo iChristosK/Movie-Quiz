@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/chris/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/build/intermediates/pre-dexed/release/support-v4-18.0.0_5a8474824910e1fa8ddb9755f8c24a2b29a18a75.jar" />
+    </item>
+
+</items>

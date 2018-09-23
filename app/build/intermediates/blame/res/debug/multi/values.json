@@ -1,0 +1,239 @@
+[
+    {
+        "outputFile": "/Users/Christos/Documents/Quiz/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 51,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 37,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 37,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 47,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 47,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 54,
+                    "endOffset": 410
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 54,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 415,
+                    "endColumn": 56,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 56,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 47,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 47,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 45,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 45,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "/Users/Christos/Documents/Quiz/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

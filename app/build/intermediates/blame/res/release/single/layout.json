@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/build/intermediates/res/merged/release/layout/statistics.xml",
+        "source": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/src/main/res/layout/statistics.xml"
+    },
+    {
+        "merged": "/Users/Christos/Documents/Quiz/app/build/intermediates/res/merged/release/layout/statistics.xml",
+        "source": "/Users/Christos/Documents/Quiz/app/src/main/res/layout/statistics.xml"
+    },
+    {
+        "merged": "/Users/Christos/Documents/Quiz/app/build/intermediates/res/merged/release/layout/db_adapter_test.xml",
+        "source": "/Users/Christos/Documents/Quiz/app/src/main/res/layout/db_adapter_test.xml"
+    },
+    {
+        "merged": "/Users/Christos/Documents/Quiz/app/build/intermediates/res/merged/release/layout/start_quiz.xml",
+        "source": "/Users/Christos/Documents/Quiz/app/src/main/res/layout/start_quiz.xml"
+    },
+    {
+        "merged": "/Users/chris/Documents/Quiz/app/build/intermediates/res/merged/release/layout/start_quiz.xml",
+        "source": "/Users/chris/Documents/Quiz/app/src/main/res/layout/start_quiz.xml"
+    },
+    {
+        "merged": "/Users/chris/Documents/Quiz/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/chris/Documents/Quiz/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Christos/Documents/Quiz/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/Christos/Documents/Quiz/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/build/intermediates/res/merged/release/layout/start_quiz.xml",
+        "source": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/src/main/res/layout/start_quiz.xml"
+    },
+    {
+        "merged": "/Users/chris/Documents/Quiz/app/build/intermediates/res/merged/release/layout/statistics.xml",
+        "source": "/Users/chris/Documents/Quiz/app/src/main/res/layout/statistics.xml"
+    },
+    {
+        "merged": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/build/intermediates/res/merged/release/layout/db_adapter_test.xml",
+        "source": "/Users/chris/Library/Mobile Documents/com~apple~CloudDocs/Studies/Bachelor/Year 4/7th Semester/ECE 464/Project/Quiz/app/src/main/res/layout/db_adapter_test.xml"
+    },
+    {
+        "merged": "/Users/chris/Documents/Quiz/app/build/intermediates/res/merged/release/layout/db_adapter_test.xml",
+        "source": "/Users/chris/Documents/Quiz/app/src/main/res/layout/db_adapter_test.xml"
+    }
+]

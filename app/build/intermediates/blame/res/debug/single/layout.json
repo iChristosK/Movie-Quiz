@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Christos/Documents/Quiz/app/build/intermediates/res/merged/debug/layout/start_quiz.xml",
+        "source": "/Users/Christos/Documents/Quiz/app/src/main/res/layout/start_quiz.xml"
+    },
+    {
+        "merged": "/Users/Christos/Documents/Quiz/app/build/intermediates/res/merged/debug/layout/statistics.xml",
+        "source": "/Users/Christos/Documents/Quiz/app/src/main/res/layout/statistics.xml"
+    },
+    {
+        "merged": "/Users/Christos/Documents/Quiz/app/build/intermediates/res/merged/debug/layout/db_adapter_test.xml",
+        "source": "/Users/Christos/Documents/Quiz/app/src/main/res/layout/db_adapter_test.xml"
+    },
+    {
+        "merged": "/Users/Christos/Documents/Quiz/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Christos/Documents/Quiz/app/src/main/res/layout/activity_main.xml"
+    }
+]
